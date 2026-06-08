@@ -1,16 +1,104 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/behrad-zari-profile.jpg" alt="Behrad Zari" width="180" />
+</p>
 
-<!--
-**behrad/behrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Behrad Zari</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">CTO, Tech Lead, and AI Software Engineer</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile views](https://komarev.com/ghpvc/?username=behradz&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/behradz?label=Followers&style=flat)
+![GitHub stars](https://img.shields.io/github/stars/behradz?label=Stars&style=flat)
+
+---
+
+## About Me
+
+I am a CTO, tech lead, and AI software engineer with more than 20 years of experience building software from early-stage startup products to enterprise-scale platforms.
+
+My work spans scalable B2C applications, multitenant B2B SaaS, marketing automation, workflow engines, ecommerce, telecom, and banking systems. I focus on practical engineering: architecture that can survive production, teams that can ship, and products that can grow without collapsing under their own complexity.
+
+I have also contributed to open source projects in the MQTT ecosystem, including:
+
+- [Automattic/kue](https://github.com/Automattic/kue)
+- [moscajs/aedes](https://github.com/moscajs/aedes)
+
+---
+
+## What I Build
+
+- Startup and enterprise software platforms
+- Scalable consumer-facing applications
+- Multitenant B2B SaaS products
+- AI-powered software systems and automation tools
+- Workflow engines and marketing automation platforms
+- Ecommerce, telecom, and banking software
+- Distributed systems, queues, messaging, and data-heavy backends
+
+---
+
+## Tech Stack
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat&logo=typescript)
+![Java](https://img.shields.io/badge/Java-111827?style=flat&logo=openjdk)
+![Scala](https://img.shields.io/badge/Scala-111827?style=flat&logo=scala)
+![Go](https://img.shields.io/badge/Go-111827?style=flat&logo=go)
+![Erlang](https://img.shields.io/badge/Erlang-111827?style=flat&logo=erlang)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-111827?style=flat&logo=react)
+![Vue.js](https://img.shields.io/badge/Vue.js-111827?style=flat&logo=vuedotjs)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-111827?style=flat&logo=shadcnui)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=flat&logo=tailwindcss)
+
+### Backend, Data, and Infrastructure
+
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat&logo=nodedotjs)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-111827?style=flat&logo=redis)
+![CouchDB](https://img.shields.io/badge/CouchDB-111827?style=flat&logo=apachecouchdb)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-111827?style=flat&logo=clickhouse)
+![StarRocks](https://img.shields.io/badge/StarRocks-111827?style=flat)
+![Typesense](https://img.shields.io/badge/Typesense-111827?style=flat)
+![Qdrant](https://img.shields.io/badge/Qdrant-111827?style=flat)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-111827?style=flat&logo=elasticsearch)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-111827?style=flat&logo=rabbitmq)
+
+---
+
+## Open Source
+
+I have contributed to open source projects around messaging, queues, MQTT, and backend infrastructure.
+
+### Selected Contributions
+
+[![Automattic/kue](https://github-readme-stats.vercel.app/api/pin/?username=Automattic&repo=kue&theme=default&hide_border=true)](https://github.com/Automattic/kue)
+[![moscajs/aedes](https://github-readme-stats.vercel.app/api/pin/?username=moscajs&repo=aedes&theme=default&hide_border=true)](https://github.com/moscajs/aedes)
+
+---
+
+## GitHub Analytics
+
+![Behrad Zari's GitHub stats](https://github-readme-stats.vercel.app/api?username=behradz&show_icons=true&hide_border=true&count_private=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=behradz&layout=compact&hide_border=true)
+
+![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=behradz&hide_border=true&area=true)
+
+---
+
+## Connect
+
+[![Website](https://img.shields.io/badge/Website-behradz.ir-111827?style=flat&logo=googlechrome)](https://behradz.ir/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Behrad%20Zari-111827?style=flat&logo=linkedin)](https://www.linkedin.com/in/behradz/)
+[![Telegram](https://img.shields.io/badge/Telegram-bzari-111827?style=flat&logo=telegram)](https://t.me/bzari)
+[![YouTube](https://img.shields.io/badge/YouTube-Behrad%20Zari-111827?style=flat&logo=youtube)](https://www.youtube.com/@BehradZari)
+
+---
+
+> I build software systems that move from idea to scale, with a founder's urgency and an engineer's discipline.
