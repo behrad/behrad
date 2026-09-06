@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="./assets/behrad-zari-profile.jpg" alt="Behrad Zari" width="180" />
+  <img src="IMG_0798.JPG" alt="Behrad Zari" width="180" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Behrad Zari</h1>
 
-<h3 align="center">CTO, Tech Lead, and AI Software Engineer</h3>
+<h3 align="center">Agentic Software Engineer</h3>
 
 ![Profile views](https://komarev.com/ghpvc/?username=behradz&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/behradz?label=Followers&style=flat)
@@ -14,7 +14,7 @@
 
 ## About Me
 
-I am a CTO, tech lead, and AI software engineer with more than 20 years of experience building software from early-stage startup products to enterprise-scale platforms.
+I am an Agentic Software Engineer with more than 20 years of experience building software from early-stage startup products to enterprise-scale platforms.
 
 My work spans scalable B2C applications, multitenant B2B SaaS, marketing automation, workflow engines, ecommerce, telecom, and banking systems. I focus on practical engineering: architecture that can survive production, teams that can ship, and products that can grow without collapsing under their own complexity.
 
@@ -77,18 +77,18 @@ I have contributed to open source projects around messaging, queues, MQTT, and b
 
 ### Selected Contributions
 
-[![Automattic/kue](https://github-readme-stats.vercel.app/api/pin/?username=Automattic&repo=kue&theme=default&hide_border=true)](https://github.com/Automattic/kue)
-[![moscajs/aedes](https://github-readme-stats.vercel.app/api/pin/?username=moscajs&repo=aedes&theme=default&hide_border=true)](https://github.com/moscajs/aedes)
+[![Automattic/kue](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Automattic&repo=kue&theme=default&hide_border=true)](https://github.com/Automattic/kue)
+[![moscajs/aedes](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=moscajs&repo=aedes&theme=default&hide_border=true)](https://github.com/moscajs/aedes)
 
 ---
 
 ## GitHub Analytics
 
-![Behrad Zari's GitHub stats](https://github-readme-stats.vercel.app/api?username=behradz&show_icons=true&hide_border=true&count_private=true)
+![Behrad Zari's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=behradz&show_icons=true&hide_border=true&count_private=true)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=behradz&layout=compact&hide_border=true)
+![Top languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=behradz&layout=compact&hide_border=true)
 
-![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=behradz&hide_border=true&area=true)
+![GitHub activity graph](https://github-readme-activity-graph-eight.vercel.app/graph?username=behradz&hide_border=true&area=true)
 
 ---
 
