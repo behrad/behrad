@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="IMG_0798.JPG" alt="Behrad Zari" width="180" style="border-radius: 50%;" />
+  <img src="profile_round.png" alt="Behrad Zari" width="180" />
 </p>
 
 <h1 align="center">Behrad Zari</h1>
@@ -7,8 +7,6 @@
 <h3 align="center">Agentic Software Engineer</h3>
 
 ![Profile views](https://komarev.com/ghpvc/?username=behradz&label=Profile%20views&color=0e75b6&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/behradz?label=Followers&style=flat)
-![GitHub stars](https://img.shields.io/github/stars/behradz?label=Stars&style=flat)
 
 ---
 
@@ -79,16 +77,6 @@ I have contributed to open source projects around messaging, queues, MQTT, and b
 
 [![Automattic/kue](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Automattic&repo=kue&theme=default&hide_border=true)](https://github.com/Automattic/kue)
 [![moscajs/aedes](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=moscajs&repo=aedes&theme=default&hide_border=true)](https://github.com/moscajs/aedes)
-
----
-
-## GitHub Analytics
-
-![Behrad Zari's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=behradz&show_icons=true&hide_border=true&count_private=true)
-
-![Top languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=behradz&layout=compact&hide_border=true)
-
-![GitHub activity graph](https://github-readme-activity-graph-eight.vercel.app/graph?username=behradz&hide_border=true&area=true)
 
 ---
 
